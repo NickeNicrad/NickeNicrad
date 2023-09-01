@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NickeNicrad
+- 👋 Hi, My Name is Darcin Kwamiso
 - 👀 I’m interested in programming especially JavaScript Platform, PHP and Cloud Computing
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Cloud Computing and AI
